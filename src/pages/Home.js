@@ -9,14 +9,17 @@ const Home = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-              </p>
+              <p>JavaScript, TypeScript, ReactJS, Redux, HTML, CSS,</p>
             </li>
             <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+              <h2 className="title-2">Other</h2>
+              <p>
+                The portfolio should include your achievements, looking at which
+                you will want to be hired. First of all, of course, this is your
+                work. However, there is something that many designers forget
+                about. These are awards and diplomas that you received at
+                competitions or after training.
+              </p>
             </li>
           </ul>
         </div>

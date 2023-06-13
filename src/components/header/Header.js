@@ -8,10 +8,11 @@ const Header = () => {
           <strong>
             Hi, my name is <em>Arthur</em>
           </strong>
-          <br />i do my job
+          <br />
+          here are my works
         </h1>
         <div className="header__text">
-          <p>It is not simple</p>
+          <p></p>
         </div>
         <a href="#!" className="btn">
           Summary
